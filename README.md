@@ -21,8 +21,8 @@ To get this application running on your local machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/yourusername/react-todo-list.git
-cd react-todo-list
+git clone https://github.com/mayankkalra03/celebal-week2.git
+cd celebal-week2
 ```
 
 ### 2. Install dependencies
