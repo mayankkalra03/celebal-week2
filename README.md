@@ -23,6 +23,7 @@ Clone the repository to your local machine using the following command:
 ```sh
 git clone https://github.com/yourusername/react-todo-list.git
 cd react-todo-list
+```
 
 ### 2. Install dependencies
 
@@ -30,6 +31,7 @@ Install the necessary dependencies by running:
 
 ```sh
 npm install
+```
 
 ### 3. Start the application
 
@@ -37,6 +39,7 @@ Launch the application with:
 
 ```sh
 npm start
+```
 
 ### 4. Visit the application
 
